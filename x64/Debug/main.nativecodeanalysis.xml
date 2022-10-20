@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\gygus\OneDrive\바탕 화면\Project15131212\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>235</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6064</DEFECTCODE>
+    <DESCRIPTION>다음 변환 지정자에 해당하는, 'scanf_s'에 대한 정수 인수가 없습니다. '2'</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>227</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
